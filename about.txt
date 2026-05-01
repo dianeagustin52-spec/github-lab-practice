@@ -1,0 +1,2 @@
+Name: Diana Agustin
+I am a student learning git and GitHub. I am improving my skills in version control and programming.
