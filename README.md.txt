@@ -1,1 +1,1 @@
-My GitHub Lab Activity
+This is Student A's Project.
